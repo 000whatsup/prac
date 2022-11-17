@@ -1,0 +1,30 @@
+Enter number of process: 5
+
+Enter Burst time:
+
+Process[1]: 0
+
+Process[2]: 2
+
+Process[3]: 5
+
+Process[4]: 6
+
+Process[5]: 2
+
+Process	 Burst Time 	Waiting Time	Turnaround Time
+
+ p1		 0		 0		 0
+
+ p2		 2		 0		 2
+
+ p5		 2		 2		 4
+
+ p3		 5		 4		 9
+
+ p4		 6		 9		 15
+
+
+Average Waiting Time: 3.0
+
+Average Turnaround Time: 6.0

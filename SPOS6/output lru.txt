@@ -1,0 +1,27 @@
+1.LRU
+enter no. of frames: 
+4
+enter the no of pages 
+10
+enter the page no 
+1
+2
+0
+1
+2
+3
+7
+8
+1
+5
+frame :1 -1 -1 -1 
+frame :1 2 -1 -1 
+frame :1 2 0 -1 
+frame :1 2 0 -1 
+frame :1 2 0 -1 
+frame :1 2 3 -1 
+frame :7 2 3 -1 
+frame :7 8 3 -1 
+frame :7 8 1 -1 
+frame :5 8 1 -1 
+Page fault:8
